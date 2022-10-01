@@ -28,9 +28,9 @@ i dont have a lot of coding skills and im no Leetking (at least not until i star
 
 right now my long term to-do list is:
 
-[ ]  finish cse 110
-[ ]  graduate
-[ ]  sell my soul to a defence contractor (haha jk... unless?)
+- [ ]  finish cse 110
+- [ ]  graduate
+- [ ]  sell my soul to a defence contractor (haha jk... unless?)
 
 ## Other cool stuff
 
